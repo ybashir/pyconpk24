@@ -1,0 +1,44 @@
+html,body {
+    height:100%;
+}
+
+
+
+	.prompt{
+        display: None;
+    }
+	
+    .container {
+        width: 100%;
+        display: flex;
+    }
+
+	.output_subarea {
+	  max-width:100% !important;
+	  overflow: auto;
+	}
+	
+
+    .left-div {
+        width: 50%;
+    }
+    .right-div {
+		width:50%;
+		
+    }
+
+	.comp-heading{
+		font-size:1em;
+		font-weight: bold;
+		color: dimgray;
+		margin-bottom:1em;
+	}
+	.comp-value{
+		font-size:1em;
+		font-weight: normal;
+		color:gray;
+	}
+	/*.text_cell_render {
+		padding-top:0.2em !important;
+		padding-bottom:0.2em !important;
+	}*/
