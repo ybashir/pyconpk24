@@ -26,16 +26,17 @@ html,body {
 		width:50%;
 		
     }
+	
 	img[alt=drake] { width: 600px; margin:0 auto; }
 
 	.comp-heading{
-		font-size:1em;
+		font-size:2em;
 		font-weight: bold;
 		color: dimgray;
 		margin-bottom:1em;
 	}
 	.comp-value{
-		font-size:1em;
+		font-size:2em;
 		font-weight: normal;
 		color:gray;
 	}
