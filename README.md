@@ -4,7 +4,9 @@ The code in this repository generates a slide deck that was used to present the 
 
 Before opening this notebook in Jupyter, make sure that you install the following in your virtual environment:
 
-`RISE`
-`iPyVizzu`
-`pandas`
+`pip install RISE`
+<br>
+`pip install iPyVizzu`
+<br>
+`pip install pandas`
 
